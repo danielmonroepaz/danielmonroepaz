@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou @danielmonroepaz
-- 🌱 Ainda estou aprendendo o Básico, minha meta é ao final do Ano estar mudando de carreira para a área da desenvolvimento. Conhecimentos sendo desenvolvidos em: Quality Assurance, C#, Git/Github, entre outras tecnologias.
+- 🌱 Graduado em Marketing, busco mudar de carreira para a área de desenvolvimento, apaixonado por Games, tenho como meta me tornar um Desenvolvedor de Games. Conhecimentos sendo desenvolvidos em: Quality Assurance, C#, Git/Github, entre outras tecnologias.
 - 📫 Você pode me encontrar no Linkdn: https://www.linkedin.com/in/daniel-monroe-paz-0854bb183
